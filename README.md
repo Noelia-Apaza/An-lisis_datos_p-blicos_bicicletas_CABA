@@ -19,6 +19,7 @@ EDA
 
 Preguntas 
 
-* Como es el ratio de uso de ecobici entre hombres y mujeres? 
-* Ratio de uso de la ecobici en horarios nocturnos 22 a 6 hs? 
-* Quién recorre mas al usar la ecobici?
+* ¿Cómo es el ratio de uso de ecobici entre hombres y mujeres?
+* ¿Cuáles son las estaciones más utilizadas por hombre y mujeres?
+* ¿Ratio de uso de la ecobici en horarios nocturnos 22 a 6 hs? 
+* ¿Los recorridos de origen y destino entre hombre y mujeres son similares?
