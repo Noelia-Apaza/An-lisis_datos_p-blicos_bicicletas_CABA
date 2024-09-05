@@ -19,3 +19,4 @@ Preguntas
 
 
 
+![9c69487b-5380-4fc1-a7a3-987a842177fc](https://github.com/user-attachments/assets/de4c9b54-7da2-4c0a-b4b9-a6199af04999)
