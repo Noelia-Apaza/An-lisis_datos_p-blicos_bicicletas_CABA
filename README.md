@@ -8,10 +8,14 @@ El transporte público, como parte fundamental de la movilidad urbana, está cad
 
 Este análisis se basa en los datos públicos proporcionados por el Gobierno de la Ciudad de Buenos Aires, los cuales incluyen información detallada sobre los recorridos realizados en Ecobici. Los datos permiten observar patrones de uso de bicicletas compartidas, como el número de viajes, las rutas más frecuentadas, y las franjas horarias preferidas por los usuarios. Al agregar la dimensión de género a este análisis, podemos identificar posibles desigualdades o diferencias en la forma en que las mujeres y los hombres utilizan este servicio. 
 
+
 Preguntas 
 
-* Como es el ratio de uso de ecobici entre hombres y mujeres? aprox 2 a 1 hombres
-* Ratio de uso de la ecobici en horarios nocturnos 22 a 6 hs? aprox 4 a 1 hombres
-* Quién recorre mas al usar la ecobici? respuesta obtenida a partir de analizar matriz origen-destino, donde se observa que las Mujeres tienden a devolver la bicicleta donde la tomaron, en cambio los hombres no lo hacen y recorren mas
+* Como es el ratio de uso de ecobici entre hombres y mujeres? 
+* Ratio de uso de la ecobici en horarios nocturnos 22 a 6 hs? 
+* Quién recorre mas al usar la ecobici?
+
+
+
 
 
