@@ -15,8 +15,10 @@ Preguntas
 * Ratio de uso de la ecobici en horarios nocturnos 22 a 6 hs? 
 * Quién recorre mas al usar la ecobici?
 
-
-
-
+EDA
 
 ![9c69487b-5380-4fc1-a7a3-987a842177fc](https://github.com/user-attachments/assets/de4c9b54-7da2-4c0a-b4b9-a6199af04999)
+
+![84c36bbc-fee9-49e1-921a-5ecb75ab9547](https://github.com/user-attachments/assets/1f45797c-6740-4c59-ac03-c25344052380)
+
+![c8930a79-8712-4bb7-9ebb-ca5d1621a16b](https://github.com/user-attachments/assets/09059b8a-0621-4b60-96cc-81e5402c15a3)
